@@ -1,0 +1,17 @@
+.header, a{
+    text-align: end;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-indent: 1rem;
+    color: red;
+}
+table{
+    display: flex;
+    justify-content: flex-end;
+}
+tr,td{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+}

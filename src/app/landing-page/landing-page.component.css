@@ -1,0 +1,28 @@
+.today{
+    transform: rotate(-45deg);
+    margin-top: 30px;
+    height: 30px;
+    width: 100px;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.wish{
+    position: absolute;
+    margin-left: 10%;
+    justify-content: start;
+    font-size: 40px;
+}
+.name{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 6%;
+    justify-content: start;
+    font-size: 60px;
+}
+.media{
+    position: absolute;
+    margin:12% 0 0 10%;
+    font-size: 20px;
+}
